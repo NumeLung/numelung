@@ -3,7 +3,8 @@
   - 🌱 I’m currently learning Synthesis of Algorithms
   - 📫 How to reach me: ivoemilkolev123@gmail.com
 ### About Me:
-  - I am an enthusiastic Informatics and Software Science student from Bulgaria. My academic and professional journey has been rich in exploring computer architectures, studying C/C# languages, MySQL Databases, and I have an insatiable curiosity about new technologies.
+  - I am an enthusiastic Informatics and Software Science student from Bulgaria. 
+  - My academic and professional journey has been rich in exploring computer architectures, studying C/C# languages, MySQL Databases, and I have an insatiable curiosity about new technologies.
 ### Key Skills:
   - Proficient in AI Speech-To-Text APIs and text classification.
   - Experienced in executing PHP and JS scripts and managing web server connections.
