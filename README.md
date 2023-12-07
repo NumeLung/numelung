@@ -7,7 +7,7 @@
   - My academic and professional journey has been rich in exploring computer architectures, studying C/C# languages, MySQL Databases, and I have an insatiable curiosity about new technologies.
 ### Key Skills:
   - Proficient in AI Speech-To-Text APIs and text classification.
-  - Experienced in executing PHP and JS scripts and managing web server connections.
+  - Experienced in executing PHP and JS scripts and managing web server connections/PHP Debugging, arrays, OOP.
   - Extensive expertise in troubleshooting computer systems.
 <!-- 
 - 👯 I’m looking to collaborate on ...
