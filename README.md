@@ -1,6 +1,6 @@
 ## Hi there 👋
-  - 🔭 I’m currently working on C# Binary Database
-  - 🌱 I’m currently learning Synthesis of Algorithms
+  <!-- - 🔭 I’m currently working on C# Binary Database -->
+  - 🌱 I’m currently learning ML
   - 📫 How to reach me: ivoemilkolev123@gmail.com
 ### About Me:
   - I am an enthusiastic Informatics and Software Science student from Bulgaria. 
